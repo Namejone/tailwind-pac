@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-pac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwind.css -o ./output/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Namejone/tailwind-pac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Namejone/tailwind-pac/issues"
+  },
+  "homepage": "https://github.com/Namejone/tailwind-pac#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
